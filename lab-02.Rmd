@@ -87,7 +87,7 @@ plastic_data_all %>%
 
 
 ```
-
+#Africa has the most number of coastal countries/territories
 
 
 ### Ex 2.
